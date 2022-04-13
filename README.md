@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-  <h1 align="center">Lista de Produtos</h1>
+  <h1 align="center">Seguindo o Figma</h1>
  <br />
  
  ## Projeto não finalizado
